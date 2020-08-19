@@ -6,9 +6,9 @@ Description:
 
     - demo_case1.r: demonstrates the proposed method for Case 1 in the simulation studies.
 
-    - demo_case2.r: demonstrates the proposed method for Case 1 in the simulation studies.
+    - demo_case2.r: demonstrates the proposed method for Case 2 in the simulation studies.
 
-    - demo_case3.r: demonstrates the proposed method for Case 1 in the simulation studies.
+    - demo_case3.r: demonstrates the proposed method for Case 3 in the simulation studies.
 
     - seql executables (folder): contains necessary C++ implementation of the sequence learner  (Ifrim and Wiuf, 2011).
 
